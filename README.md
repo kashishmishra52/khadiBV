@@ -78,7 +78,8 @@ Access the App
 
 🌐 Customer Portal → http://localhost:5000
 
-🛠️ Admin Panel (Khadi Bhandar) → http://localhost:5500 bash
+🛠️ Admin Panel (Khadi Bhandar) → http://localhost:5500
+```
 
 ## 📸 Screenshots (UI Preview)  
 👉 [View Screenshots Here](https://drive.google.com/drive/folders/1guU6qRNkVrfij0D6FnnmnPHdYazD3sO-?usp=drive_link)
