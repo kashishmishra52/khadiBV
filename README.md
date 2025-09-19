@@ -58,8 +58,8 @@ This project was developed as part of the **B.Tech (IT) final year project at Ba
 ## ⚙️ Installation & Setup  
 
 ### 1️⃣ Clone the Repository  
-bash
-git clone https://github.com/yourusername/khadibv.git
+```bash
+git clone https://github.com/kashishmishra52/khadiBV/
 cd khadibv
 cd backend
 npm install
